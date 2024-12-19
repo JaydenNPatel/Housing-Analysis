@@ -1,9 +1,9 @@
-Danny Schwartz, Garrett Button, Jayden Patel, Zoe Greengrass
+Danny Schwartz, Garrett Button, Jayden Patel, Zoe Greengrass <br>
 
-Analysis of Household Income and Home Values
-1984-2023 State Income Data (H-8)
-1984-2018 State Income Data
-2000-2024 Household Values
+Analysis of Household Income and Home Values <br>
+1984-2023 State Income Data (H-8) <br>
+1984-2018 State Income Data <br>
+2000-2024 Household Values <br>
 
 Introduction
 In the past 20 years, housing in Boston has been increasing at a very significant rate. While on the housing search, we wondered what the factors causing such high rates in Boston are. We saw these high rates, and wanted to know why they are occuring, while looking for housing as upperclassmen at Northeastern University. We are also all interested in a career in finance, so we wanted to find correlation between household income and housing prices. To tackle this problem, we first used data from The Boston Foundation to focus specifically on housing pricing data within Boston, and more specifically, towns within Boston. This proved to be inefficient and not strong enough. The dataset seemed to have irrelevant data categories, and an insufficient number of years for regression, with data only dating back to 2020 and 2016. A lot of the data also had no use to us, so it was best to find different data. 
