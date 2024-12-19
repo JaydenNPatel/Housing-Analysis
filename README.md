@@ -20,18 +20,22 @@ For our primary Data Science Usage, we performed the primary modeling technique 
  
 We also used Correlation Analysis, which quantifies the relationship between two variables. In this case, the correlation coefficient between median household income and median home values in each state. This depicted how strongly income and home values are related in different states, generating insights to patterns between these variables. We computed the correlation between median household income and median home values for each state. This helped identify how closely these two variables are related. We plotted our residuals, as a residual plot is very important in showing the differences between observed values and predicted values through the regression model. We did this for each state to make sure we weren't running into any problems with regression. A limitation in this residual analysis was that higher correlations among states had more of a pattern-like distribution, suggesting the linear regression model may not be fully capturing all of the factors/dynamics in household income data for these states. However, states with low correlation coefficients had effectively randomly distributed regression points, so we carried on with our analysis. <br>
 ![image](images/residual_ct.png)
-
+![image](images/residual_oregon.png)
 
 Time series analysis also applied in our analysis, helping us the trends in changes over time in housing markets in different states, as we compared different values over different time periods. We aggregated Zillow monthly data into yearly averages to observe trends over time. This helped in understanding the temporal dynamics of home values.
 To better understand and break down all this analysis, we created dynamic line charts, and a heatmap. The line charts plotted the actual values and regression of our data, highlighting trends and comparisons, distinguishing our historical data points from our predictions. The heatmap’s color intensity provided visual understanding of these economic correlations. These visualizations made it easier to interpret the results and communicate findings. <br> 
 
 Results and Conclusions: <br>
 As discussed earlier, regression line graphs were utilized to analyze housing trends and predict future costs for user-specified states. These graphs provided a framework for forecasting housing prices in upcoming years and allowed for a comparison of these predictions with actual historical prices. The comparisons revealed high accuracy in the regression models. Most states displayed a clear linear increase in housing costs, indicating consistent patterns across regions. However, a few outliers were identified, likely influenced by factors that were unique to the locations, such as local economic growth or legislative changes. These observations reinforced the importance of considering external variables in future analyses. <br>
+![image](images/household_comp.png)
+
 
 The next visualization that was made displayed housing value fluctuations over time and further illustrated an overall rapid increase. Within this increase, there were also very clear sudden peaks that can be held responsible by events that may have been happening during those specific time periods. For instance, a sharp rise in the early 2020s was likely driven by the COVID-19 pandemic. This visualization also revealed distinct regional differences in growth rates. Urban states like California and New York exhibited more rapid increases in home values, reflecting their status as hubs for technology and business. In contrast, rural states showed slower growth rates, highlighting the impact of regional economic characteristics on housing trends.<br>
+![image](images/median_values.png)
 
 
 Additionally, a correlation heatmap was created to assess the relationship between household income and home values. The heatmap revealed that over half of the states had correlation coefficients of 0.5 or higher, signifying a strong relationship between these variables. This finding underscores the critical role of housing costs as a driver of overall inflation, as changes in home values are closely tied to household economic conditions. <br>
+![image](images/heatmap.png)
 
 In conclusion, the results showcase both broad trends and detailed regional distinctions in housing market dynamics, emphasizing the need to account for diverse factors when analyzing or forecasting housing costs. <br>
 
