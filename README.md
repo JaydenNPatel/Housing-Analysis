@@ -1,6 +1,8 @@
 <h1>Analysis of Household Income and Home Values </h1> <br>
 
 Authors: Danny Schwartz, Garrett Button, Jayden Patel, Zoe Greengrass <br>
+
+Data Used:<br>
 [1984-2023 State Income Data (H-8)](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html)  <br>
 [1984-2018 State Income Data](https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xls)  <br>
 [2000-2024 Household Values](https://www.zillow.com/research/data/)  <br>
