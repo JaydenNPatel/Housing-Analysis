@@ -1,6 +1,6 @@
-Danny Schwartz, Garrett Button, Jayden Patel, Zoe Greengrass <br>
+Authors: Danny Schwartz, Garrett Button, Jayden Patel, Zoe Greengrass <br>
 
-Analysis of Household Income and Home Values <br>
+<h1>Analysis of Household Income and Home Values </h1> <br>
 
 [1984-2023 State Income Data (H-8)](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html)  <br>
 [1984-2018 State Income Data](https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xls)  <br>
